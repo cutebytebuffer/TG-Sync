@@ -1,0 +1,5 @@
+name: TGSyncPaper
+version: '${version}'
+main: cute.bytebuffer.paper.TGSyncPaperPlugin
+api-version: '1.21'
+depend: [TotemGuard]
